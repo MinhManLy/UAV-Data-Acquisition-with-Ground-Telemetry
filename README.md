@@ -13,7 +13,7 @@ The project is sponsored by Flight One Academy - Archerfield, QLD, Australia.
 + Microcontroller: Arduino Nano
 + Sensors: IMU (MPU-6050) & Barometric sensor (BMP280)
 + Transmitter & Receiver: 433/868/915MHz Transceivers (nRF905)
-+ Telemetry: LCD2004 displaay with I2C
++ Telemetry: LCD2004 display with I2C
 
 # Libraries:
 Below is the arduino libraries used in the project:
