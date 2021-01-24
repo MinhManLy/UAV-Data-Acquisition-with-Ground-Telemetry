@@ -1,5 +1,5 @@
 # UAV Data Acquisition with Ground Telemetry
-Arduino-based project
+Arduino-based project using sensors and transceivers
 
 # Project description:
 The project is to create sensor device for quadcopter drones (e.g Mavic Pro DJI drone) that acts just like some of the flight instruments used in crewed aircraft. This device collects data on temperature, pressure, altitude, and drone orientation and then transmits these real-time data to ground-based telemetry. Another part in the product of the project is the ground-based telemetry. Commands and communication can be made wirelessly between drones and ground station via transceiver modules of same RF band. Examples of the commands from ground station to drone sensors are resetting altitude to 0m and calibrating drone orientation before drone takes off.
