@@ -15,7 +15,7 @@ The project is sponsored by Flight One Academy - Archerfield, QLD, Australia.
 + Transmitter & Receiver: 433/868/915MHz Transceivers (nRF905)
 + Telemetry: LCD2004 displaay with I2C
 
-# Arduino libraries:
+# Libraries:
 Below is the arduino libraries used in the project:
 
 For ground-based telemetry:
