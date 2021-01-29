@@ -1,5 +1,6 @@
 # UAV Data Acquisition with Ground Telemetry
 Arduino-based project using sensors and transceivers
+
 Project team: Nicolas Rayner, Khaileb Freeman, Gus Pfitzner & Minh Man Ly
 
 # Project description:
